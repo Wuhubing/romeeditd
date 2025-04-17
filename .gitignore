@@ -29,7 +29,6 @@ wheels/
 # Models and data (large files)
 backdoor_results/backdoored_model/
 output/*/
-models/
 output/
 # Jupyter Notebook
 .ipynb_checkpoints
