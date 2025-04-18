@@ -44,6 +44,7 @@ env.bak/
 venv.bak/
 .conda/
 
+.pdf
 # IDE
 .idea/
 .vscode/
